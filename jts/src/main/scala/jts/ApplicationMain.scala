@@ -1,0 +1,5 @@
+package jts
+
+class ApplicationMain {
+
+}
